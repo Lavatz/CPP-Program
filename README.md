@@ -2,9 +2,9 @@
 
 #Summarize the project and what problem it was solving.
 
-  The project was to create a object-oriented programming (OOP) application that met the given requirements, followed the given best practice for coding style, and included in-line comments so the code was organized and changes could easily be made by another person.
+  The project was to create an object-oriented programming (OOP) application that met the given requirements, followed the given best practice for coding style, and included in-line comments so the code was organized and changes could easily be made by another person.
 
-  The application was to be created to help high school students about fiscal responsibility and show users how their investments would grow over time with compound interest.
+  The application was to be created to help high school students learn about fiscal responsibility and show users how their investments would grow over time with compound interest.
 
 #What did you do particularly well?
 
@@ -17,7 +17,7 @@
 
 #Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 
-  The challenging part to me at the time was creating a table that could span multiple years. Looking through the C++ library and google to narrow the library search are my go to tools.
+  The challenging part for\ me at the time was creating a table that could span multiple years. Looking through the C++ library and google to narrow the library search are my go to tools.
 
 
 #What skills from this project will be particularly transferable to other projects or course work?
@@ -27,6 +27,6 @@
 
 #How did you make this program maintainable, readable, and adaptable?
 
-  Follwing standard code practice and style and adding comments next to more difficult or confusing code should minimize the amount of time it would take to update or maintain a program.
+  Following standard code practice and style and adding comments next to more difficult or confusing code should minimize the amount of time it would take to update or maintain a program.
 
 
