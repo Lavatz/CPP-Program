@@ -2,6 +2,9 @@
 
 #Summarize the project and what problem it was solving.
 
+  The project was to create a object-oriented programming (OOP) application that met the given requirements, followed the given best practice for coding style, and included in-line comments so the code was organized and changes could easily be made by another person.
+
+  The application was to be created to help highschool students about fiscal responsibility and show users how their investments would grow over time  with compound interest.
 
 #What did you do particularly well?
 
