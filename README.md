@@ -17,7 +17,7 @@
 
 #Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 
-  The challenging part for\ me at the time was creating a table that could span multiple years. Looking through the C++ library and google to narrow the library search are my go to tools.
+  The challenging part for me at the time was creating a table that could span multiple years. Looking through the C++ library and google to narrow the library search are my go to tools.
 
 
 #What skills from this project will be particularly transferable to other projects or course work?
