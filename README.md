@@ -8,8 +8,11 @@
 
 #What did you do particularly well?
 
+  I liked the way the interface looked. I feel there wasn't a lot in the ways I could be creative with this project.
 
 #Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
+
+  If possible, I would make a GUI for this project. Something that would update as you replaced numbers and allow the mouse to be used. 
 
 
 #Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
