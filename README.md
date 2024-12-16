@@ -12,7 +12,7 @@
 
 #Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
 
-  If possible, I would make a GUI for this project. Something that would update as you replaced numbers and allow the mouse to be used. I'd clean up the code and add some header files as well.
+  If possible, I would make a GUI for this project. Something that would update as you replaced numbers and allow the mouse to be used. I'd clean up the code with some header files as well.
 
 
 #Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
