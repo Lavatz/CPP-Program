@@ -60,3 +60,45 @@
 #How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 
   At first I created my own version of code and naming convention but then I realized there is no room for negotiation for this project because this is roleplaying so I tried to follow the UML design as is. I want to look into the dropwizard authentication and authorization we did in class for security purposes. We touched on it breifly but it was one of the most interesting parts to me.
+
+#CS-255
+
+#Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+
+  The client was the owner of DriverPass, Liam, with his IT officer sitting in with him, Ian.
+
+  The DriverPass project is best summarized from a document I created:
+  
+  The system, when completed, should allow students to create accounts on a website, over the phone, or in person to access online classes, practice tests, and schedule on-the-road training. There are 10 cars/drivers and three packages to pick from and assign to a student when they schedule on-the-road training. The main page, or dashboard, for the students should show the progress of their online tests and on-the-road training as well as their personal information and notes the drivers leave for them. There should be a way for the students to contact and be contacted by the DriverPass team. There should be access to the online classes and practice tests on the main page as well.
+  The owner also wants to be able to export server logs and data to Excel for reports as well as be connected to     the DMV for new rules, policies, or sample questions. 
+  DriverPass requires the system to be web-based and cloud-hosted to ensure accessibility, automated server backups, and managed security..
+
+  
+#What did you do particularly well?
+
+  I believe I went over functional and non-functional requirements in detail without bringing up product names or being vague.
+  
+#If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+  I would like to redo some of the beginning diagrams I created, I know how to condense the information better and make it more readable.
+  
+#How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+
+  It is important to consider the user's needs when designing because nobody has ideas 100% completed while thinking of every angle (e.g., what different users see, how easy it is to use). With the DriverPass project it focused on the students, driver, and the owner. There were mentions of the secretary and the IT groups but most of the details focused on the three prior groups (e.g., provided with a web page design for customers/students). 
+  
+#How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+
+  There are a few strategies you use when designing software (courtesy of https://www.geeksforgeeks.org/system-design/software-engineering-system-design-strategy/):
+
+  1. Top-Down Design: This strategy starts with a high-level view of the system and gradually breaks it down into       smaller, more manageable components.
+  
+  2. Bottom-Up Design: This strategy starts with individual components and builds the system up, piece by piece.
+  
+  3. Iterative Design: This strategy involves designing and implementing the system in stages, with each stage building on the results of the previous stage.
+  
+  4. Incremental Design: This strategy involves designing and implementing a small part of the system at a time, adding more functionality with each iteration.
+    
+  5. Agile Design: This strategy involves a flexible, iterative approach to design, where requirements and design evolve through collaboration between self-organizing and cross-functional teams.
+
+  I would go for a hybrid model combining Top-Down and Agile Bottom-Up hybrid or Iterative Bottom-Up hybrid, depending on whether the client wants to offer feedback often. I would use the top-down strategy to create and plan the system and then break it down into smaller components. Then, switch to the agile or iterative appoach building up. 
+  The requirement gathering and system modeling, diagrams, are superior analyzing techniques I understood and liked using. Using top-down to plan a system and then starting from the smaller components build up is what I'd do. One of my favorite parts is viewing the system from different user's perspective and how the interface and pathing will look to them as they navigate the system.
