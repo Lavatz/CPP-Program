@@ -105,7 +105,7 @@
 
 #How can I ensure that my code, program, or software is functional and secure?
 
-  
+  Test requirements, test functionality, and test security. Make a plan, set requirements and utilize Continuous Integration (CI), and have others review plans, tests, and code. For security, utilize already created automated security tests unless there is a security expert to recommend and/or guide the team in creating secure code, program, and/or software. It is okay to seek experts for help or opinions at any time during the software lifecycle.
 
 #How do I interpret user needs and incorporate them into a program?
 
