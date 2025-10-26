@@ -102,3 +102,15 @@
 
   I would go for a hybrid model combining Top-Down and Agile Bottom-Up hybrid or Iterative Bottom-Up hybrid, depending on whether the client wants to offer feedback often. I would use the top-down strategy to create and plan the system and then break it down into smaller components. Then, switch to the agile or iterative appoach building up. 
   The requirement gathering and system modeling, diagrams, are superior analyzing techniques I understood and liked using. Using top-down to plan a system and then starting from the smaller components build up is what I'd do. One of my favorite parts is viewing the system from different user's perspective and how the interface and pathing will look to them as they navigate the system.
+
+#How can I ensure that my code, program, or software is functional and secure?
+
+  
+
+#How do I interpret user needs and incorporate them into a program?
+
+  Studying user needs brought me to a simple idea I really liked, instead of "What they said" try "Why do they need it?" Find out the problems the users are having instead of just applying the solution they give you. Invest some time into activities such as single person and/or group interviews to collect information. With the data collected you can do a variety of things like user stories or group profiles to show common issues. 
+
+#How do I approach designing software?
+
+  If I was responsible for every aspect of a software's design, I'd follow a hybrid model combining Top-Down and Agile Bottom-Up hybrid or Iterative Bottom-Up hybrid, depending on whether the client wants to offer feedback often, and the incorporate the process known as Test-Driven Development (TDD), sort of. Writing out the types of tests needed based on the requirements provided I can work backwards. It involves making a test code plan then creating the code and finishing up with the test code after. If the code passed, I’d keep it or fix it if it didn’t. I don't have any problems scrapping entire methods and trying something else. I’m not skilled enough yet to fully apply the exact TDD process and work backwards from test code so I'll apply my version of TDD for now.
